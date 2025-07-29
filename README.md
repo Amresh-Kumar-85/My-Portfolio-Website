@@ -6,7 +6,7 @@ A modern, fully responsive, and animated developer portfolio website built using
 
 ## 🚀 Live Demo
 
-🖥️ **Visit Now:** [https://amresh-portfolio.netlify.app](https://amresh-portfolio.netlify.app)  
+🖥️ **Visit Now:**  https://amreshk.netlify.app/
 _(Replace with your live Netlify link after deployment)_
 
 
@@ -50,7 +50,7 @@ main.jsx
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/amreshkumar/portfolio.git
 
 # Navigate to project directory
 cd portfolio
@@ -64,7 +64,7 @@ npm run dev
 
 📬 Contact
 📧 Email: amreshkumar.dev@gmail.com
-🌐 Portfolio: amresh-portfolio.netlify.app
+🌐 Portfolio: (https://amreshk.netlify.app/)
 💼 LinkedIn: linkedin.com/in/amresh-kumar
 
 ## Acknowledgements
